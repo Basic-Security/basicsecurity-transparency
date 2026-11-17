@@ -75,6 +75,30 @@
    "root": null,
    "sha256": "0d7c46cd47a7fc8da4d2a626eb28c10b8399c441663072dd3814a0baf7c3ae89",
    "size": null
+  },
+  {
+   "archive_org": null,
+   "created_at": "2026-11-17T12:59:10Z",
+   "erratum": null,
+   "event": "events/199fb97ccfb024100e9988c178f3560a2288dd3b9f0a7afe9087138d6715194c.json",
+   "id": "199fb97ccfb024100e9988c178f3560a2288dd3b9f0a7afe9087138d6715194c",
+   "kind": 1,
+   "ots": {
+    "blocks": [],
+    "calendars": [
+     "alice.btc.calendar.opentimestamps.org",
+     "bob.btc.calendar.opentimestamps.org",
+     "btc.calendar.catallaxy.com",
+     "finney.calendar.eternitywall.com"
+    ],
+    "proof": "ots/199fb97ccfb024100e9988c178f3560a2288dd3b9f0a7afe9087138d6715194c.json.ots",
+    "state": "pending"
+   },
+   "record": null,
+   "rekor": null,
+   "root": "8757fdb1fe3c430a28079e5e49988b85b48328deb6cbff67530f2ec2cee20261",
+   "sha256": "65efd0b8845e4d2971c1625ffbfdca06bb965bb7c641f92b0ae1dd7f9503f948",
+   "size": 2
   }
  ],
  "note": "Our own signed events and their receipts only. Reader-submitted content is never included; each head commits to the corrections ledger by its RFC 6962 root hash.",
