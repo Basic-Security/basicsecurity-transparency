@@ -95,7 +95,16 @@
     "state": "pending"
    },
    "record": null,
-   "rekor": null,
+   "rekor": {
+    "bundle": "rekor/199fb97ccfb024100e9988c178f3560a2288dd3b9f0a7afe9087138d6715194c.sigstore.json",
+    "integrated_time": 1794920369,
+    "kind": "hashedrekord",
+    "log_index": 3946027106,
+    "log_origin": "rekor.sigstore.dev - 1193050959916656506",
+    "media_type": "application/vnd.dev.sigstore.bundle.v0.3+json",
+    "tree_size": 3824122853,
+    "tsa": true
+   },
    "root": "8757fdb1fe3c430a28079e5e49988b85b48328deb6cbff67530f2ec2cee20261",
    "sha256": "65efd0b8845e4d2971c1625ffbfdca06bb965bb7c641f92b0ae1dd7f9503f948",
    "size": 2
