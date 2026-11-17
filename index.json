@@ -11,7 +11,9 @@
    "id": "97afeb9ac3635036f179622c2b51498805033db723086972cb31afc98fd11466",
    "kind": 1111,
    "ots": {
-    "blocks": [],
+    "blocks": [
+     976269
+    ],
     "calendars": [
      "alice.btc.calendar.opentimestamps.org",
      "bob.btc.calendar.opentimestamps.org",
@@ -19,7 +21,7 @@
      "finney.calendar.eternitywall.com"
     ],
     "proof": "ots/97afeb9ac3635036f179622c2b51498805033db723086972cb31afc98fd11466.json.ots",
-    "state": "pending"
+    "state": "bitcoin"
    },
    "record": "https://basicsecurity.net/threat/cve-2025-8355.html",
    "rekor": {
@@ -47,7 +49,9 @@
    "id": "eb9fd7a1773a6e7cf85728df2446ed0555a3e668f9e607f22ebc076f6224364d",
    "kind": 1111,
    "ots": {
-    "blocks": [],
+    "blocks": [
+     976269
+    ],
     "calendars": [
      "alice.btc.calendar.opentimestamps.org",
      "bob.btc.calendar.opentimestamps.org",
@@ -55,7 +59,7 @@
      "finney.calendar.eternitywall.com"
     ],
     "proof": "ots/eb9fd7a1773a6e7cf85728df2446ed0555a3e668f9e607f22ebc076f6224364d.json.ots",
-    "state": "pending"
+    "state": "bitcoin"
    },
    "record": "https://basicsecurity.net/threat/cve-2025-8356.html",
    "rekor": {
