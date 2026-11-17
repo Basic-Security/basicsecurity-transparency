@@ -1,0 +1,60 @@
+{
+ "events": [
+  {
+   "archive_org": null,
+   "created_at": "2026-11-17T11:36:08Z",
+   "erratum": "2026-11-13-kev-count-cve-2025-8355",
+   "event": "events/97afeb9ac3635036f179622c2b51498805033db723086972cb31afc98fd11466.json",
+   "id": "97afeb9ac3635036f179622c2b51498805033db723086972cb31afc98fd11466",
+   "kind": 1111,
+   "ots": {
+    "blocks": [],
+    "calendars": [
+     "alice.btc.calendar.opentimestamps.org",
+     "bob.btc.calendar.opentimestamps.org",
+     "btc.calendar.catallaxy.com",
+     "finney.calendar.eternitywall.com"
+    ],
+    "proof": "ots/97afeb9ac3635036f179622c2b51498805033db723086972cb31afc98fd11466.json.ots",
+    "state": "pending"
+   },
+   "record": "https://basicsecurity.net/threat/cve-2025-8355.html",
+   "rekor": null,
+   "root": null,
+   "sha256": "057ab6d463ec741bdf180569d1e47dedc9fbc2cb31e27d1095e7f750e7f96d32",
+   "size": null
+  },
+  {
+   "archive_org": null,
+   "created_at": "2026-11-17T11:36:11Z",
+   "erratum": "2026-11-13-kev-count-cve-2025-8356",
+   "event": "events/eb9fd7a1773a6e7cf85728df2446ed0555a3e668f9e607f22ebc076f6224364d.json",
+   "id": "eb9fd7a1773a6e7cf85728df2446ed0555a3e668f9e607f22ebc076f6224364d",
+   "kind": 1111,
+   "ots": {
+    "blocks": [],
+    "calendars": [
+     "alice.btc.calendar.opentimestamps.org",
+     "bob.btc.calendar.opentimestamps.org",
+     "btc.calendar.catallaxy.com",
+     "finney.calendar.eternitywall.com"
+    ],
+    "proof": "ots/eb9fd7a1773a6e7cf85728df2446ed0555a3e668f9e607f22ebc076f6224364d.json.ots",
+    "state": "pending"
+   },
+   "record": "https://basicsecurity.net/threat/cve-2025-8356.html",
+   "rekor": null,
+   "root": null,
+   "sha256": "0d7c46cd47a7fc8da4d2a626eb28c10b8399c441663072dd3814a0baf7c3ae89",
+   "size": null
+  }
+ ],
+ "note": "Our own signed events and their receipts only. Reader-submitted content is never included; each head commits to the corrections ledger by its RFC 6962 root hash.",
+ "repository": "https://github.com/Basic-Security/basicsecurity-transparency",
+ "schema": 1,
+ "signers": {
+  "cosign_public_key": "transparency-signer.pub",
+  "nostr_pubkey": "8d20e910e73e61784d3a871c4cfb4642848b94ce3034d59d9f7c2b7c9f32d311"
+ },
+ "site": "https://basicsecurity.net"
+}
