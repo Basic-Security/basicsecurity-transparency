@@ -1,7 +1,10 @@
 {
  "events": [
   {
-   "archive_org": null,
+   "archive_org": {
+    "requested_at": 1794919222,
+    "snapshot": null
+   },
    "created_at": "2026-11-17T11:36:08Z",
    "erratum": "2026-11-13-kev-count-cve-2025-8355",
    "event": "events/97afeb9ac3635036f179622c2b51498805033db723086972cb31afc98fd11466.json",
@@ -19,13 +22,25 @@
     "state": "pending"
    },
    "record": "https://basicsecurity.net/threat/cve-2025-8355.html",
-   "rekor": null,
+   "rekor": {
+    "bundle": "rekor/97afeb9ac3635036f179622c2b51498805033db723086972cb31afc98fd11466.sigstore.json",
+    "integrated_time": 1794915393,
+    "kind": "hashedrekord",
+    "log_index": 3945560870,
+    "log_origin": "rekor.sigstore.dev - 1193050959916656506",
+    "media_type": "application/vnd.dev.sigstore.bundle.v0.3+json",
+    "tree_size": 3823656618,
+    "tsa": true
+   },
    "root": null,
    "sha256": "057ab6d463ec741bdf180569d1e47dedc9fbc2cb31e27d1095e7f750e7f96d32",
    "size": null
   },
   {
-   "archive_org": null,
+   "archive_org": {
+    "requested_at": 1794919355,
+    "snapshot": null
+   },
    "created_at": "2026-11-17T11:36:11Z",
    "erratum": "2026-11-13-kev-count-cve-2025-8356",
    "event": "events/eb9fd7a1773a6e7cf85728df2446ed0555a3e668f9e607f22ebc076f6224364d.json",
@@ -43,7 +58,16 @@
     "state": "pending"
    },
    "record": "https://basicsecurity.net/threat/cve-2025-8356.html",
-   "rekor": null,
+   "rekor": {
+    "bundle": "rekor/eb9fd7a1773a6e7cf85728df2446ed0555a3e668f9e607f22ebc076f6224364d.sigstore.json",
+    "integrated_time": 1794915395,
+    "kind": "hashedrekord",
+    "log_index": 3945561061,
+    "log_origin": "rekor.sigstore.dev - 1193050959916656506",
+    "media_type": "application/vnd.dev.sigstore.bundle.v0.3+json",
+    "tree_size": 3823656868,
+    "tsa": true
+   },
    "root": null,
    "sha256": "0d7c46cd47a7fc8da4d2a626eb28c10b8399c441663072dd3814a0baf7c3ae89",
    "size": null
