@@ -84,7 +84,11 @@
    "id": "199fb97ccfb024100e9988c178f3560a2288dd3b9f0a7afe9087138d6715194c",
    "kind": 1,
    "ots": {
-    "blocks": [],
+    "blocks": [
+     976277,
+     976281,
+     976290
+    ],
     "calendars": [
      "alice.btc.calendar.opentimestamps.org",
      "bob.btc.calendar.opentimestamps.org",
@@ -92,7 +96,7 @@
      "finney.calendar.eternitywall.com"
     ],
     "proof": "ots/199fb97ccfb024100e9988c178f3560a2288dd3b9f0a7afe9087138d6715194c.json.ots",
-    "state": "pending"
+    "state": "bitcoin"
    },
    "record": null,
    "rekor": {
